@@ -1,4 +1,4 @@
+# My Blog Page 
+My blog page which created with Jekyll and Memoirs Jekyll Theme by WowThemes.net.
 
-# jekyll-blog
-# jekyll-blog
-# jekyll-blog
+You can look at live demo [here](https://yigiterdev-blog.netlify.app/)
