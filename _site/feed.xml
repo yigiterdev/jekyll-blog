@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yigiterBlog</title>
+    <description>I'm Computer Engineering Student</description>
+    <link>https://yigiterdev-blog.netlify.app//</link>
+    <atom:link href="https://yigiterdev-blog.netlify.app//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Feb 2021 20:27:35 +0300</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 20:27:35 +0300</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>What is Lorem Ipsum?</title>
+        <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Feb 2021 19:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//loremipsum/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//loremipsum/</guid>
+        
+        <category>Technical</category>
+        
+        
+        <category>Technical</category>
+        
+      </item>
+    
+      <item>
+        <title>Get Started With React.js</title>
+        <description>
+</description>
+        <pubDate>Mon, 08 Feb 2021 20:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//reactjs/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//reactjs/</guid>
+        
+        <category>React</category>
+        
+        
+        <category>Technical</category>
+        
+      </item>
+    
+      <item>
+        <title>React vs Vue vs Angular</title>
+        <description>&lt;p&gt;Which JavaScript framework is better?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Feb 2021 20:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//javascriptframeworks/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//javascriptframeworks/</guid>
+        
+        
+        <category>Technical</category>
+        
+      </item>
+    
+      <item>
+        <title>Computer Engineering</title>
+        <description>&lt;p&gt;What is computer engineering?&lt;/p&gt;
+
+&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;li class=&quot;ml-1 mr-1&quot;&amp;gt;
+  &amp;lt;a target=&quot;_blank&quot; href=&quot;#&quot;&amp;gt;
+    &amp;lt;i class=&quot;fab fa-twitter&quot;&amp;gt;&amp;lt;/i&amp;gt;
+  &amp;lt;/a&amp;gt;
+&amp;lt;/li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.highlight .c {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;// alertbar later
+$(document).scroll(function () {
+  var y = $(this).scrollTop();
+  if (y &amp;gt; 280) {
+    $(&quot;.alertbar&quot;).fadeIn();
+  } else {
+    $(&quot;.alertbar&quot;).fadeOut();
+  }
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;print(&quot;Hello World&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;require 'redcarpet'
+markdown = Redcarpet.new(&quot;Hello World!&quot;)
+puts markdown.to_html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;printf(&quot;Hello World&quot;);
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2021 20:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//education/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//education/</guid>
+        
+        
+        <category>Education</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Tailwind Css?</title>
+        <description>&lt;p&gt;Rapidly build modern websites without ever leaving your HTML.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Feb 2021 20:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//tailwindcss/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//tailwindcss/</guid>
+        
+        
+        <category>Technical</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Jekyll Blog</title>
+        <description>&lt;p&gt;I’ve been learning Jekyll for a week and this is my first blog. I’m studying Computer Engineering in Gazi University. It’ s my career goal to develop myself more and more everday. My main intention is improving myself at software technologies. I’m learning about Web Development recently. I want to increase my blog posts. I’m trying to learn React these days.&lt;/p&gt;
+
+&lt;p&gt;I did two projects to learn react, you can browse their links.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yigiterdev/react-project-for-learning&quot;&gt;First Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yigiterdev/tic-tac-toewithReact&quot;&gt;Second Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 04 Feb 2021 20:34:04 +0300</pubDate>
+        <link>https://yigiterdev-blog.netlify.app//firstblog/</link>
+        <guid isPermaLink="true">https://yigiterdev-blog.netlify.app//firstblog/</guid>
+        
+        
+        <category>FirstBlog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
